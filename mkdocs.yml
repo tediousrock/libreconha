@@ -4,6 +4,7 @@ nav:
   - Inicio: index.md
   - Cultivo:
     - Equipamentos: equipamentos.md
+    - Sementes: sementes.md
     - Luz: luz.md
     - Umidade: umidade.md
     - Temperatura: temperatura.md
