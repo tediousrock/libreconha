@@ -2,6 +2,7 @@ site_name: Libreconha
 repo_url: https://github.com/tediousrock/libreconha/
 nav:
   - Inicio: index.md
+  - Legalize: legalize.md
   - Cultivo:
     - Equipamentos: equipamentos.md
     - Sementes: sementes.md
