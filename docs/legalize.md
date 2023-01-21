@@ -161,7 +161,7 @@ Por fim, este documento está autorizado a ser lançado em todos os meios de com
 formato digital ou impresso, apenas devendo conter o nome de seus autores e da Associação Cannábica do Brasil (A.C.B.), os quais se reúnem e desenvolvem seus trabalhos de informação e ativismo em prol da legalização/descriminalização/regulamentação do uso medicinal
 e recreativo da maconha, bem como do plantio caseiro para uso estritamente pessoal.
 
-## Fonte
+## Créditos
 
 A.C.B - Associação Canábica do Brasil
 
