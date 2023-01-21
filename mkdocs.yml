@@ -5,6 +5,7 @@ nav:
   - Legalize: legalize.md
   - Cultivo:
     - Equipamentos: equipamentos.md
+    - Ventilação: ventilacao.md
     - Sementes: sementes.md
     - Luz: luz.md
     - Umidade: umidade.md
@@ -23,3 +24,5 @@ theme:
       accent: green
   favicon: assets/favicon.ico
   logo: assets/logo.png
+
+
