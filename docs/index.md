@@ -1,7 +1,7 @@
-# Um guia básico sobre o cultivo da canábis.
+# Libreconha: um guia básico sobre o cultivo da canábis.
 
-Tudo que está aqui é o básico, o que você precisa saber para plantar. Quer saber mais? Só lendo livros, e visitando sites estrangeiros como [GrowWeedEasy](https://www.growweedeasy.com).
+O Libreconha pode ser modificado por qualquer pessoa, adicionando mais informações sobre o cultivo da canábis.
 
-Espero que isso ajude alguém. Abraços.
+Repositório no GitHub para alterações [GitHub](https://github.com/tediousrock/libreconha).
 
 Inspirado e baseado no [Wikconha](https://medium.com/@wikconha).
