@@ -8,6 +8,7 @@ nav:
     - Luz: luz.md
     - Umidade: umidade.md
     - Temperatura: temperatura.md
+    - Substrato: substrato.md
     - Solo vivo: solovivo.md
 
 theme:
