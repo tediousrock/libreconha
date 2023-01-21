@@ -7,7 +7,7 @@ A planta não gosta de temperaturas acima de 30 graus.
 
 ### Como posso abaixar a temperatura?
 
-Melhorar a ventilação do ambiente e ar-condicionado.
+Melhorar a ventilação do ambiente, ar-condicionado e mantas termicas que dissipam o calor.
 
 ### Como posso aumentar a temperatura?
 
