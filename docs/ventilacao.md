@@ -2,6 +2,12 @@
 
 Você pode usar ventiladores e exaustores. Se tiver problemas com o cheiro que a planta exala durante a flora, pode instalar um filtro de carvão ativado para amenizar o cheiro.
 
+<div align="center">
+<img src="https://imageswscdn.wslojas.com.br/files/5167/MED_filtro-de-carvao-100mm-125mm-150mm-458794.jpg" style="width:128px; height:128px;"/>
+<img src="https://http2.mlstatic.com/D_NQ_NP_959397-MLB44879805395_022021-O.webp" style="width:128px; height:128px;"/>
+<img src="https://cdn.dooca.store/27/products/filtro-de-carvao-ativado-p-exaustor-fumaca-cj-com-05_620x620+fill_ffffff.jpg?v=1565292814&webp=0" style="width:128px; height:128px;"/>
+</div>
+
 ## Exaustores
 
 Os exaustores da Sicflux tem um ótimo custo beneficio, principalmente a linha MDT10.
