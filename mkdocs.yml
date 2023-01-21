@@ -1,0 +1,16 @@
+site_name: r/cultivonha
+nav:
+    - Inicio: index.md
+    - Equipamentos: equipamentos.md
+    - Luz: luz.md
+    - Umidade: umidade.md
+    - Temperatura: temperatura.md
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: green
+      accent: green
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
