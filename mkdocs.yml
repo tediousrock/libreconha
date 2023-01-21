@@ -5,6 +5,7 @@ nav:
     - Luz: luz.md
     - Umidade: umidade.md
     - Temperatura: temperatura.md
+    - Solo vivo: solovivo.md
 
 theme:
   name: material
