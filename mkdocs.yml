@@ -2,14 +2,16 @@ site_name: Libreconha
 repo_url: https://github.com/tediousrock/libreconha/
 plugins:
   - glightbox
+  - search:
+      lang: pt
 markdown_extensions:
   - attr_list
   - md_in_html
 nav:
   - Inicio: index.md
-  - Estufa Básica: estufabasica.md
   - Legalize: legalize.md
   - Cultivo:
+    - Estufa Básica: estufabasica.md
     - Equipamentos: equipamentos.md
     - Ventilação: ventilacao.md
     - Sementes: sementes.md
@@ -32,11 +34,15 @@ extra:
       name: tediousrock reddit
 
 theme:
+  font:
+    text: Roboto
   name: material
   language: pt-BR
   icon:
     repo: fontawesome/brands/github
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.instant
     - navigation.sections
   palette: 
