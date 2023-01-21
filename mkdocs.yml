@@ -1,5 +1,10 @@
 site_name: Libreconha
 repo_url: https://github.com/tediousrock/libreconha/
+plugins:
+  - glightbox
+markdown_extensions:
+  - attr_list
+  - md_in_html
 nav:
   - Inicio: index.md
   - Estufa Básica: estufabasica.md
