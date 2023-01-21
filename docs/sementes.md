@@ -18,11 +18,11 @@ São como as sementes regulares, porém é certeza que a planta será fêmea.
 
 São sementes que o ciclo de vida não depende da quantidade de horas de luz, o tempo de colheita é de 90 dias.
 
-### Vantagens:
+### Vantagens
 - No cultivo outdoor você não depende das estações
 - No cultivo indoor você consegue levar plantas em diferentes ciclos simultaneamente, diminui o espaço de tempo entre colheitas.
 
-### Desvantagens:
+### Desvantagens
 - Não da para clonar, você sempre terá que comprar semente
 - Ela é mais “sensível”, caso você estresse ela por algum motivo (excesso de fertilizante, excesso de água, esquecer de regar…) ela para de crescer, não se desenvolve muito e acaba florindo pequena.
 - Você não consegue deixar a planta vegetando por mais de um mês, para completar o espaço da sua estufa e ter um maior rendimento.
