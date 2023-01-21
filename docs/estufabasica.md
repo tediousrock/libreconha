@@ -1,12 +1,12 @@
 # Estufa básica
 
-## 1x Estufa 40x40x140 cm
+## 1x Estufa 60x60x160 cm
 - Valor médio ~R$400,00.
-- Onde comprar? Mercado Livre ou Shopee.
+- Onde comprar? Mercado Livre, Shopee e lojas de cultivo.
 
 <figure markdown>
-  ![](https://http2.mlstatic.com/D_NQ_NP_671950-MLB44135150262_112020-O.webp){ width="256" height="256" }
-  <figcaption>Estufa 40x40x140 cm</figcaption>
+  ![](https://vegaeflora.com.br/wp-content/uploads/2021/03/estufa-cultivo-grow-garden-highpro-basic.jpg){ width="256" height="256" }
+  <figcaption>Estufa 60x60x160 cm</figcaption>
 </figure>
 
 ## 1x Quantum Board 120W
