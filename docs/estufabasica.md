@@ -5,7 +5,7 @@
 - Onde comprar? Mercado Livre, Shopee e lojas de cultivo.
 
 <figure markdown>
-  ![](https://vegaeflora.com.br/wp-content/uploads/2021/03/estufa-cultivo-grow-garden-highpro-basic.jpg){ width="256" height="256" }
+  ![](https://raw.githubusercontent.com/tediousrock/libreconha/main/docs/assets/estufa.png){ width="256" height="256" }
   <figcaption>Estufa 60x60x160 cm</figcaption>
 </figure>
 
@@ -14,7 +14,7 @@
 - Onde comprar? Aliexpress.
 
 <figure markdown>
-  ![](https://raw.githubusercontent.com/tediousrock/libreconha/main/docs/assets/quantum-board.webp){ width="256" height="256" }
+  ![](https://raw.githubusercontent.com/tediousrock/libreconha/main/docs/assets/quantum-board.png){ width="256" height="256" }
   <figcaption>Quantum Board 120W</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@
 - Onde comprar? Shopee.
 
 <figure markdown>
-  ![](https://cdn.awsli.com.br/600x700/1553/1553512/produto/1835834110228ac837a.jpg){ width="256" height="256" }
+  ![](https://raw.githubusercontent.com/tediousrock/libreconha/main/docs/assets/exaustor-sicflux.png){ width="256" height="256" }
   <figcaption>Exaustor Sicflux MDT10</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@
 - Onde comprar? Shopee.
 
 <figure markdown>
-  ![](https://http2.mlstatic.com/D_NQ_NP_617307-MLB48850638625_012022-O.webp){ width="256" height="256" }
+  ![](https://raw.githubusercontent.com/tediousrock/libreconha/main/docs/assets/terro.png){ width="256" height="256" }
   <figcaption>Solo Vivo Terrô</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@
 - Onde comprar? Sua cidade.
 
 <figure markdown>
-  ![](https://a-static.mlcdn.com.br/800x560/kit-05-vasos-muda-15-litros-vida-verde/paiolverde/5402603/8acf6960c6abf3cc1b796b0653bb1b6a.jpg){ width="256" height="256" }
+  ![](https://raw.githubusercontent.com/tediousrock/libreconha/main/docs/assets/vaso.png){ width="256" height="256" }
   <figcaption>Vaso 15L</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@
 - Onde comprar? Shopee.
 
 <figure markdown>
-  ![](https://www.growplant.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/b/i/bio-bloom-biobizz_3.jpg){ width="256" height="256" }
+  ![](https://raw.githubusercontent.com/tediousrock/libreconha/main/docs/assets/bio-bloom-biobizz.png){ width="256" height="256" }
   <figcaption>Biobizz Bloom</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@
 - Onde comprar? Shopee.
 
 <figure markdown>
-  ![](https://cdn.leroymerlin.com.br/products/higrometro_medidor_de_umidade_e_temperatura_digital_com_senso_1566827921_4c70_600x600.jpeg){ width="256" height="256" }
+  ![](https://raw.githubusercontent.com/tediousrock/libreconha/main/docs/assets/higrometro.png){ width="256" height="256" }
   <figcaption>Higrômetro</figcaption>
 </figure>
 
@@ -68,6 +68,6 @@
 - Onde comprar? Shopee ou sua cidade.
 
 <figure markdown>
-  ![](https://cdn.leroymerlin.com.br/products/timer_analogico_bivolt__a_santos_88515644_0001_600x600.jpg){ width="256" height="256" }
+  ![](https://raw.githubusercontent.com/tediousrock/libreconha/main/docs/assets/timer_analogico.png){ width="256" height="256" }
   <figcaption>Timer Analógico</figcaption>
 </figure>
