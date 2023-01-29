@@ -6,7 +6,7 @@ Pode ser comprado em agropecuarias.
 
 Diluir 10 ml da solução K-Othrine SC 25 em 500 ml de água. Borrifar nos cantos da estufa, janelas e portas do comodo.
 
-Não aplicar nas plantas. Utilize luvas e óculos de proteção. Produto toxico para felinos. Leia as instruções do uso antes de usar.
+Não aplicar nas plantas. Utilize luvas e óculos de proteção. Produto toxico para felinos. Leia as instruções de uso do produto antes de usar.
 
 ![](https://raw.githubusercontent.com/tediousrock/libreconha/main/docs/assets/kothrine.png){ width="256" height="256" }
 
